@@ -18,7 +18,7 @@ def logo():
                         $$$  / \$$$ |$$ |  $$ |$$ |      $$\   $$ | $$ |   $$ |  $$ |
                         $$  /   \$$ |$$ |  $$ |$$$$$$$$\ \$$$$$$  | $$ |   $$ |  $$ |
                         \__/     \__|\__|  \__|\________| \______/  \__|   \__|  \__|
-                                            Discord.gg/Feunza
+                                            Discord.gg/Fuenza
                                              Kalite Tecavüz
     """
     c = Colorate.Horizontal(Colors.blue_to_red, l)
