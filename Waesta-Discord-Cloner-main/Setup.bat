@@ -5,6 +5,7 @@ pip install discord
 pip install asyncio
 pip install colorama
 pip install fore
+pip install pystyle
 pip3 install --user psutil
 pip3 install --user pypresence
 pip3 install --user discord
